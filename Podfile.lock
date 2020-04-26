@@ -1,0 +1,16 @@
+PODS:
+  - FBPresentSwizzing (0.1.0)
+
+DEPENDENCIES:
+  - FBPresentSwizzing (from `Lib/FBPresentSwizzing`)
+
+EXTERNAL SOURCES:
+  FBPresentSwizzing:
+    :path: Lib/FBPresentSwizzing
+
+SPEC CHECKSUMS:
+  FBPresentSwizzing: 3c315df87d71b147765ab2478a213e42bc0adc64
+
+PODFILE CHECKSUM: c167143aac0ab2c0141907b6d4620a6e932d4de5
+
+COCOAPODS: 1.7.3

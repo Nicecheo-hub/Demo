@@ -1,0 +1,6 @@
+framework module Pods_FBDemoTests {
+  umbrella header "Pods-FBDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module FBPresentSwizzing {
+  umbrella header "FBPresentSwizzing-umbrella.h"
+
+  export *
+  module * { export * }
+}
